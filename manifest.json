@@ -1,0 +1,11 @@
+{
+  "name": "proCAD",
+  "short_name": "proCAD",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#cc2222",
+  "icons": [
+    {"src": "icon.png", "sizes": "192x192", "type": "image/png"}
+  ]
+}
